@@ -3,3 +3,4 @@ Allow: /
 
 Sitemap: https://niaxcroknit.github.io/sitemap.xml
 Sitemap: https://niaxcroknit.github.io/dandan/sitemap.xml
+Sitemap: https://niaxcroknit.github.io/dandi/sitemap.xml
