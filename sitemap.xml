@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://niaxcroknit.github.io/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://niaxcroknit.github.io/dandan/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://niaxcroknit.github.io/dandi/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://niaxcroknit.github.io/privacy.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://niaxcroknit.github.io/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/about.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/guides/</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/privacy.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/apps/dandan.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/apps/dandi.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/apps/hanko.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/apps/domadoro.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/apps/mylog.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/apps/seojae.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/apps/haedum.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/apps/mooljansori.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/apps/golrachu.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/apps/starlightyard.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/apps/mannequindrape.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/apps/roomscale.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/apps/kungjjak.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/apps/pangpang.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/apps/ppojjak.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/apps/subwayvillain.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/guides/row-count.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/guides/gauge.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/guides/size-chart.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/guides/room-measure.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/guides/pomodoro.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/guides/bujo.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/guides/reading.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/guides/chores.html</loc><lastmod>2026-11-24</lastmod></url>
+  <url><loc>https://niaxcroknit.github.io/guides/trip.html</loc><lastmod>2026-11-24</lastmod></url>
 </urlset>

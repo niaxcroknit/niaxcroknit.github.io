@@ -1,0 +1,47 @@
+:root{--bg:#3a2c35;--bg2:#5a4250;--ink:#fffdf9;--soft:rgba(255,253,249,.74);--card:rgba(255,255,255,.08);--edge:rgba(255,255,255,.2);--accent:#ffe3b8;color-scheme:dark}
+*{box-sizing:border-box}html,body{margin:0}
+body{min-height:100vh;font-family:"Noto Sans KR","Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif;color:var(--ink);background:radial-gradient(120% 80% at 20% 0%,var(--bg2),var(--bg) 60%) fixed,var(--bg);line-height:1.75;word-break:keep-all}
+a{color:var(--accent)}
+.wrap{max-width:760px;margin:0 auto;padding:0 18px}
+.top{border-bottom:1px solid var(--edge);position:sticky;top:0;background:rgba(58,44,53,.92);backdrop-filter:blur(8px);z-index:5}
+.top .wrap{display:flex;justify-content:space-between;align-items:center;height:56px}
+.logo{color:var(--ink);text-decoration:none;font-weight:600;letter-spacing:.02em}
+.top nav a{color:var(--soft);text-decoration:none;margin-left:18px;font-size:15px}
+.top nav a:hover{color:var(--ink)}
+main{padding:28px 18px 40px}
+h1{font-size:clamp(26px,6vw,36px);font-weight:600;line-height:1.35;margin:8px 0 12px}
+h2{font-size:20px;font-weight:600;margin:40px 0 10px}
+h3{font-size:17px;font-weight:600;margin:24px 0 6px}
+.muted{color:var(--soft)}.small{font-size:13px}
+.hero{padding:24px 0 8px}.hero p{color:var(--soft);font-size:16px;max-width:620px}
+.cat{margin-top:44px}.cat h2{margin:0 0 2px}.cat>.muted{margin:0 0 14px;font-size:14px}
+.cards{display:grid;gap:10px;grid-template-columns:repeat(auto-fill,minmax(320px,1fr))}
+.card{display:flex;gap:14px;align-items:flex-start;padding:16px;border-radius:18px;background:var(--card);border:1px solid var(--edge);text-decoration:none;color:var(--ink);transition:background .15s}
+.card:hover{background:rgba(255,255,255,.14)}
+.card img{width:56px;height:56px;border-radius:14px;flex:none}
+.card b{display:block;font-size:17px;font-weight:600}
+.card small{display:block;color:var(--accent);font-size:13px;margin-bottom:4px}
+.card .one{display:block;color:var(--soft);font-size:14px;line-height:1.6}
+.glist{list-style:none;padding:0;margin:0;display:grid;gap:10px}
+.glist a{display:block;padding:16px;border-radius:18px;background:var(--card);border:1px solid var(--edge);text-decoration:none;color:var(--ink)}
+.glist a:hover{background:rgba(255,255,255,.14)}
+.glist b{display:block;font-weight:600}.glist span{display:block;color:var(--soft);font-size:14px;margin-top:4px}
+.note{margin-top:44px;padding:20px;border-radius:18px;background:var(--card);border:1px solid var(--edge)}.note h2{margin:0 0 6px}.note p{margin:0;color:var(--soft)}
+.crumb{font-size:13px;color:var(--soft);margin:0}.crumb a{color:var(--soft)}
+.apphead{display:flex;gap:20px;align-items:center;margin:14px 0 8px}
+.apphead img{width:96px;height:96px;border-radius:24px;flex:none}
+.apphead h1{margin:0}.apphead .sub{margin:2px 0 12px;color:var(--accent)}
+.links{display:flex;flex-wrap:wrap;gap:8px}
+.btn{display:inline-block;font-size:15px;text-decoration:none;color:#3a2530;padding:9px 18px;border-radius:999px;background:linear-gradient(145deg,#ffe9c7,#ffc9a8);font-weight:500}
+.btn.ghost{color:var(--ink);background:transparent;border:1px solid var(--edge)}
+.prose{font-size:16px}.prose p,.prose li{color:rgba(255,253,249,.86)}
+.prose ul,.prose ol{padding-left:22px}.prose li{margin:4px 0}
+.prose b{color:var(--ink)}
+.formula{padding:14px 16px;border-radius:12px;background:rgba(255,227,184,.12);border:1px solid rgba(255,227,184,.35);color:var(--ink)!important;font-weight:500}
+details{border:1px solid var(--edge);border-radius:14px;padding:12px 16px;margin:8px 0;background:var(--card)}
+summary{cursor:pointer;font-weight:500}details p{margin:8px 0 0}
+.rel{margin-top:32px;padding:16px;border-radius:16px;border:1px dashed var(--edge);display:flex;flex-direction:column;gap:4px;font-size:15px}
+.appbox{margin-top:40px;display:flex;gap:14px;padding:18px;border-radius:18px;background:rgba(255,227,184,.08);border:1px solid rgba(255,227,184,.3)}
+.appbox img{width:56px;height:56px;border-radius:14px;flex:none}.appbox p{margin:4px 0 12px;color:var(--soft);font-size:14px}
+footer{border-top:1px solid var(--edge);padding:20px 18px 40px;font-size:13px;color:var(--soft)}footer a{color:var(--soft)}footer p{margin:4px 0}
+@media (max-width:520px){.top nav a{margin-left:12px;font-size:14px}.apphead img{width:72px;height:72px;border-radius:18px}.cards{grid-template-columns:1fr}}
